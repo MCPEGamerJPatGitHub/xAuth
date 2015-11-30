@@ -20,7 +20,8 @@ xAuth allows you to control your own servers authentication. xAuth gives you ton
 
 ## Features that will come soon:
 - Ability to Auto-Update plugin.
-
+- Single password to login on all accounts.
+- Reload Support. 
 # FAQ
 - When will this be ready for production?
 Answer: Soon!
@@ -36,4 +37,3 @@ Answer: Yes! Feel free too. Though first read the contributing rules.
 
 - Should I use this over SimpleAuth?
 Answer: SimpleAuth is great at hashing passwords and all, but xAuth gives you more configuration options. The choice is yours!
-
